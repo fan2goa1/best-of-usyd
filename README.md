@@ -1,11 +1,11 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    best-of
+    best-of-USYD
     <br>
 </h1>
 
 <p align="center">
-    <strong>🏆&nbsp; Discover best-of lists with awesome open-source projects on all kinds of topics.</strong>
+    <strong>🏆&nbsp; A ranked list of awesome USYD — projects related to <i>The University of Sydney</i></strong>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
     <a href="https://github.com/best-of-lists/best-of/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/best-of-lists/best-of?color=green&label=updated"></a>
 </p>
 
-This curated list contains 21 best-of lists with a total of 29K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose), submit a [pull request](https://github.com/best-of-lists/best-of/pulls), or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 21 best-of lists related to The University of Sydney with a total of 29K stars grouped into 8 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from Github and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/best-of-lists/best-of/issues/new/choose), submit a [pull request](https://github.com/best-of-lists/best-of/pulls), or directly edit the [projects.yaml](https://github.com/best-of-lists/best-of/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️ Create your own best-of list in just 3 minutes with [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 

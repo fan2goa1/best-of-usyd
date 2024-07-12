@@ -1,19 +1,79 @@
 configuration:
   markdown_header_file: "config/header.md"
   markdown_footer_file: "config/footer.md"
+  min_stars: 0
+  min_projectrank: 0
+  min_description_length: 0
+  max_description_length: 299792458 # = ∞ in daily life
+  require_license: False
+  allowed_licenses: [all]
+  ascii_description: False
+  category_heading: robust
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: template
+    title: 📁Template
+    subtitle: "All kinds of templates, e.g. latex, beamer, or other templates."
+  - category: course_project
+    title: 📚Course Projects
+    subtitle: "Projects that are part of a course, tutorial or competition."
+  - category: learn_material
+    title: 📖Learning Material
+    subtitle: "Material that helps you to dive deep into specific courses."
+  
+  - category: misc
+    title: 🎉Miscellaneous
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: latex
+    name: 📜LaTeX
+  - label: R
+    name: 📊R
+  - label: python
+    name: 🐍Python
+  - label: matlab
+    name: 🧮Matlab
+  - label: jupyter
+    name: "📔Jupyter Notebook"
+  - label: rust
+    name: 🦀Rust
+  - label: web
+    name: 🕸️Web
+  - label: html
+    name: 🌐HTML
+  - label: go
+    name: 💨Go
+  - label: java
+    name: ☕Java
+  - label: cpp
+    name: "#️⃣C/C++"
+  - label: hdl
+    name: ⛓️HDL
+  - label: asm
+    name: 🦘Assembly
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: USYD-beamer-theme
+    github_id: malramsay64/usyd-beamer-theme
+    labels: [latex]
+    category: template
+
+  - name: COMP2017-Study-Notes
+    github_id: Phoebezuo/COMP2017-Study-Notes
+    labels: [cpp]
+    category: learn_material
+
+  - name: DeepRacer
+    github_id: MatthewSuntup/DeepRacer
+    labels: [python]
+    category: course_project
+
+  - name: COMP5318
+    github_id: co234/COMP5318
+    labels: [jupyter,html]
+    category: course_project
+
+  - name: USYDTemplates
+    github_id: emitanaka/USYDTemplates
+    labels: [R]
+    category: template

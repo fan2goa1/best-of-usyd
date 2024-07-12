@@ -16,6 +16,16 @@ If you like to contribute to or share suggestions regarding the project metadata
 
 For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/fan2goa1/best-of-usyd/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/fan2goa1/best-of-usyd/blob/main/.github/CODE_OF_CONDUCT.md).
 
+## Star Trends
+
+<a href="https://star-history.com/#fan2goa1/best-of-usyd&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=fan2goa1/best-of-usyd&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=fan2goa1/best-of-usyd&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=fan2goa1/best-of-usyd&type=Date" />
+  </picture>
+</a>
+
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](https://creativecommons.org/licenses/by-sa/4.0/)

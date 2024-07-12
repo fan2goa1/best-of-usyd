@@ -79,7 +79,7 @@ def build_transformers(project_yaml: str) -> dict[str, Transformer]:
 def parse_issue_body(body: str,
                      transformers: dict[str, Transformer]) -> dict[str, str]:
     # 忽略补充信息
-    body = body[:body.index("### Additional context")]
+    body = body[:body.index("### Additional_context")]
 
     # 分段
     sections = body.removeprefix("### ").replace("\r\n", "\n").split("\n\n### ")

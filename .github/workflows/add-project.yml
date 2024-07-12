@@ -23,6 +23,13 @@ jobs:
         env:
           # For GitHub CLI
           GH_TOKEN: ${{ github.token }}
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Reset promotion branch
+        run: |
+          git fetch origin main:main
+          git reset --hard main
       - name: Create pull request
         uses: peter-evans/create-pull-request@v6
         with:

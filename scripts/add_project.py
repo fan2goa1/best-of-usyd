@@ -54,13 +54,12 @@ def build_transformers(project_yaml: str) -> dict[str, Transformer]:
             },
         "URL":
             url_to_id,
-        # GitHub URL 已被替换为 URL，仅为兼容而保留，#45, #68, #70 全部解决后可删除
-        "GitHub URL":
-            lambda v: {
-                "github_id":
-                    v.strip().removeprefix("https://github.com/").removesuffix(
-                        "/"),
-            },
+        # "GitHub URL":
+        #     lambda v: {
+        #         "github_id":
+        #             v.strip().removeprefix("https://github.com/").removesuffix(
+        #                 "/"),
+        #     },
         "Category":
             lambda v: {
                 "category":
@@ -110,7 +109,7 @@ def build_parser() -> argparse.ArgumentParser:
     gh issue view … --json body | python {__file__} ./project.yaml""",
         formatter_class=argparse.RawDescriptionHelpFormatter,
     )
-    parser.add_argument("project_yaml", type=Path, help="Path to project.yaml")
+    parser.add_argument("project_yaml", type=Path, help="Path to projects.yaml")
     return parser
 
 

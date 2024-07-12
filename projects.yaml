@@ -82,3 +82,7 @@ projects:
     category: template
     labels: [R]
     homepage: https://github.com/emitanaka/USYDTemplates
+
+  - name: multi_robot_perception
+    github_id: jessemorris/multi_robot_perception
+    category: course_project

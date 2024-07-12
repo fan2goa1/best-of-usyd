@@ -23,6 +23,14 @@ jobs:
         env:
           # For GitHub CLI
           GH_TOKEN: ${{ github.token }}
+      - uses: actions/checkout@v4
+        with:
+          ref: |
+            create-pull-request/patch-for-issue-${{ github.event.issue.number }}
+      - name: Reset create-pull-request branch
+        run: |
+          git fetch origin main:main
+          git reset --hard main
       - name: Create pull request
         uses: peter-evans/create-pull-request@v6
         with:

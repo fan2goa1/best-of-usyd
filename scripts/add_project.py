@@ -41,14 +41,14 @@ def url_to_id(url: str) -> dict[str, str]:
 def build_transformers(project_yaml: str) -> dict[str, Transformer]:
     """
     @param project_yaml: content of `project.yaml`
-    @return transformers: { original_key: original_value ⇒ { key: value} }
+    @return transformers: { original_key: original_value ⇒ { key: value} }, original_key should align with 01_suggest-project.md
     """
     yaml = YAML(typ="safe")
 
     categories = yaml.load(project_yaml)["categories"]
 
     return {
-        "Project Name":
+        "Name":
             lambda v: {
                 "name": v.strip()
             },
@@ -69,7 +69,7 @@ def build_transformers(project_yaml: str) -> dict[str, Transformer]:
             lambda v: {
                 "license": v.strip()
             },
-        "Package Managers":
+        "Package_managers":
             lambda value: {
                 f"{k}_id": str(v).strip() for k, v in yaml.load(value).items()
             },
@@ -125,5 +125,5 @@ if __name__ == "__main__":
 
     patch = dump(project, project_yaml)
     print(patch)
-    with project_yaml_path.open("a", encoding="utf-8") as f:
-        f.write(f"\n{patch}\n")
+    # with project_yaml_path.open("a", encoding="utf-8") as f:
+    #     f.write(f"\n{patch}\n")

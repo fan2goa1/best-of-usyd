@@ -1,0 +1,67 @@
+name: "📦 Suggest a project"
+description: "Do you like to suggest a project that hasn't been added to this best-of-usyd list yet?"
+title: "Add project: "
+labels: ["add-project"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Please make sure that the project was not already added or suggested to this best-of list. You can ensure this by searching the projects.yaml, the README.md, and the issue list.
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Project details
+
+        Please fill out as much of the following information as possible.
+
+  - type: input
+    id: name
+    attributes:
+      label: name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: GitHub、Gitee、Greasy Fork……
+  - type: dropdown
+    id: category
+    attributes:
+      label: category
+      description:  Choose one of the existing categories from the README.md or projects.yaml file
+      options:
+        # sync-categories: start
+        - 📁Template
+        - 📚Course Projects
+        - 📖Learning Material
+        - 🎉Miscellaneous
+        # sync-categories: end
+  - type: input
+    id: license
+    attributes:
+      label: license
+      placeholder: MIT
+  - type: textarea
+    id: package
+    attributes:
+      label: package_managers
+      description: |
+        Add the IDs for every package manager that the project is available on (e.g. npm, pypi, conda, dockerhub, maven, apt, ...).
+      placeholder: |
+        pypi: tensorflow
+        conda: conda-forge/tensorflow
+        dockerhub: tensorflow/tensorflow
+
+  - type: markdown
+    attributes:
+      value: |
+        ### Additional context
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: additional_context
+      description: Add any other context or additional information about the project.
+      placeholder: (Optional)

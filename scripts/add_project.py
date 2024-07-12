@@ -125,5 +125,5 @@ if __name__ == "__main__":
 
     patch = dump(project, project_yaml)
     print(patch)
-    # with project_yaml_path.open("a", encoding="utf-8") as f:
-    #     f.write(f"\n{patch}\n")
+    with project_yaml_path.open("a", encoding="utf-8") as f:
+        f.write(f"\n{patch}\n")

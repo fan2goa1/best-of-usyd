@@ -4,7 +4,7 @@ configuration:
   min_stars: 0
   min_projectrank: 0
   min_description_length: 0
-  max_description_length: 299792458 # = ∞ in daily life
+  max_description_length: 299792458
   require_license: False
   allowed_licenses: [all]
   ascii_description: False
@@ -55,25 +55,30 @@ labels:
 projects:
   - name: USYD-beamer-theme
     github_id: malramsay64/usyd-beamer-theme
-    labels: [latex]
     category: template
+    labels: [latex]
+    homepage: https://github.com/malramsay64/usyd-beamer-theme
 
   - name: COMP2017-Study-Notes
     github_id: Phoebezuo/COMP2017-Study-Notes
-    labels: [cpp]
     category: learn_material
+    labels: [cpp]
+    homepage: https://github.com/Phoebezuo/COMP2017-Study-Notes
 
   - name: DeepRacer
     github_id: MatthewSuntup/DeepRacer
-    labels: [python]
     category: course_project
+    labels: [python]
+    homepage: https://github.com/MatthewSuntup/DeepRacer
 
   - name: COMP5318
     github_id: co234/COMP5318
-    labels: [jupyter,html]
     category: course_project
+    labels: [jupyter,html]
+    homepage: https://github.com/co234/COMP5318
 
   - name: USYDTemplates
     github_id: emitanaka/USYDTemplates
-    labels: [R]
     category: template
+    labels: [R]
+    homepage: https://github.com/emitanaka/USYDTemplates

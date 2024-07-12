@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <p align="center">
-    <img src="../assets/usyd-logo.png" alt="USYD" width="75%">
+    <img src="https://raw.githubusercontent.com/fan2goa1/best-of-usyd/main/assets/usyd-logo.png" alt="USYD" width="50%">
 </p>
 
 <h1 align="center">

@@ -18,7 +18,7 @@ body:
   - type: input
     id: name
     attributes:
-      label: name
+      label: Name
     validations:
       required: true
   - type: input
@@ -29,7 +29,7 @@ body:
   - type: dropdown
     id: category
     attributes:
-      label: category
+      label: Category
       description:  Choose one of the existing categories from the README.md or projects.yaml file
       options:
         # sync-categories: start
@@ -41,12 +41,12 @@ body:
   - type: input
     id: license
     attributes:
-      label: license
+      label: License
       placeholder: MIT
   - type: textarea
     id: package
     attributes:
-      label: package_managers
+      label: Package_managers
       description: |
         Add the IDs for every package manager that the project is available on (e.g. npm, pypi, conda, dockerhub, maven, apt, ...).
       placeholder: |
@@ -62,6 +62,6 @@ body:
   - type: textarea
     id: additional
     attributes:
-      label: additional_context
+      label: Additional_context
       description: Add any other context or additional information about the project.
       placeholder: (Optional)

@@ -127,3 +127,6 @@ projects:
     category: learn_material
     # homepage: https://github.com/kunzhang1110/COMP5347-Web-Application-Development
     labels: [web]
+  - name: usyd-work
+    github_id: antrikshdhand/usyd-work
+    category: learn_material

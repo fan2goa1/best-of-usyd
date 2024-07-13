@@ -15,19 +15,19 @@
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="https://github.com/fan2goa1/best-of-usyd" title="best of USYD"><img alt="best of USYD" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/fan2goa1/best-of-usyd/main/assets/badge/v1.json"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-5-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-6-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fan2goa1/best-of-usyd/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fan2goa1/best-of-usyd?color=green&label=updated"></a>
 </p>
 
-This curated list contains 5 awesome open-source projects with a total of 0 stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fan2goa1/best-of-usyd/issues/new/choose), submit a [pull request](https://github.com/fan2goa1/best-of-usyd/pulls), or directly edit the [projects.yaml](https://github.com/fan2goa1/best-of-usyd/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 6 awesome open-source projects with a total of 130 stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fan2goa1/best-of-usyd/issues/new/choose), submit a [pull request](https://github.com/fan2goa1/best-of-usyd/pulls), or directly edit the [projects.yaml](https://github.com/fan2goa1/best-of-usyd/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
 - [📁Template](#template) _2 projects_
-- [📚Course Projects](#course-projects) _2 projects_
+- [📚Course Projects](#course-projects) _3 projects_
 - [📖Learning Material](#learning-material) _1 projects_
 - [🎉Miscellaneous](#miscellaneous) _0 projects_
 
@@ -55,8 +55,9 @@ This curated list contains 5 awesome open-source projects with a total of 0 star
 
 _All kinds of templates, e.g. latex, beamer, or other templates._
 
-<details><summary><b><a href="https://github.com/malramsay64/usyd-beamer-theme">USYD-beamer-theme</a></b> -  <code>❗Unlicensed</code> <code>📜LaTeX</code></summary>
+<details><summary>Show 2 hidden projects...</summary>
 
+<<<<<<< HEAD
 - [GitHub]():
 
 	```
@@ -70,6 +71,10 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 	```
 	git clone https://github.com/emitanaka/USYDTemplates
 	```
+=======
+- <b><a href="https://github.com/malramsay64/usyd-beamer-theme">USYD-beamer-theme</a></b> (🥇11 ·  ⭐ 34 · 💀) - A Beamer theme that adheres to the University of Sydney Branding. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>
+- <b><a href="https://github.com/emitanaka/USYDTemplates">USYDTemplates</a></b> (🥉2 ·  ⭐ 9 · 💀) - R Markdown templates for the University of Sydney. <code>❗Unlicensed</code> <code>📊R</code>
+>>>>>>> acc44d2ca5f354dbac24a4df93ed30359f0d7b65
 </details>
 <br>
 
@@ -79,21 +84,11 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 
 _Projects that are part of a course, tutorial or competition._
 
-<details><summary><b><a href="https://github.com/MatthewSuntup/DeepRacer">DeepRacer</a></b> -  <code>❗Unlicensed</code> <code>🐍Python</code></summary>
+<details><summary>Show 3 hidden projects...</summary>
 
-- [GitHub]():
-
-	```
-	git clone https://github.com/MatthewSuntup/DeepRacer
-	```
-</details>
-<details><summary><b><a href="https://github.com/co234/COMP5318">COMP5318</a></b> -  <code>❗Unlicensed</code> <code>📔Jupyter Notebook</code> <code>🌐HTML</code></summary>
-
-- [GitHub]():
-
-	```
-	git clone https://github.com/co234/COMP5318
-	```
+- <b><a href="https://github.com/MatthewSuntup/DeepRacer">DeepRacer</a></b> (🥇4 ·  ⭐ 49 · 💀) - An overview of our teams strategy and development for USYDs 2020 AWS DeepRacer competition. <code>❗Unlicensed</code> <code>🐍Python</code>
+- <b><a href="https://github.com/co234/COMP5318">COMP5318</a></b> (🥇4 ·  ⭐ 14 · 💀) - Tutorial materials for COMP5318-USYD. <code>❗Unlicensed</code> <code>📔Jupyter Notebook</code> <code>🌐HTML</code>
+- <b><a href="https://github.com/jessemorris/multi_robot_perception">multi_robot_perception</a></b> (🥇4 ·  ⭐ 9 · 💀) - Ma thesis @usyd. <code>❗Unlicensed</code>
 </details>
 <br>
 
@@ -103,13 +98,9 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> -  <code>❗Unlicensed</code> <code>#️⃣C/C++</code></summary>
+<details><summary>Show 1 hidden projects...</summary>
 
-- [GitHub]():
-
-	```
-	git clone https://github.com/Phoebezuo/COMP2017-Study-Notes
-	```
+- <b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> (🥇1 ·  ⭐ 14 · 💀) - Study Notes for COMP2017 at USYD. <code>❗Unlicensed</code> <code>#️⃣C/C++</code>
 </details>
 <br>
 

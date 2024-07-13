@@ -20,14 +20,19 @@ categories:
   - category: learn_material
     title: 📖Learning Material
     subtitle: "Material that helps you to dive deep into specific courses."
-  
+  - category: study_research_tools
+    title: 🔧Study & research tools
+    subtitle: "Tools that help you to study and research more efficiently. e.g. xx learning platform"
+  - category: usyd_theme_gadgets
+    title: 🎨USYD-theme Gadgets
+    subtitle: "Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc."
   - category: misc
     title: 🎉Miscellaneous
 
 labels:
   - label: latex
     name: 📜LaTeX
-  - label: R
+  - label: r
     name: 📊R
   - label: python
     name: 🐍Python
@@ -54,35 +59,71 @@ labels:
 
 projects:
   - name: USYD-beamer-theme
+    homepage: https://github.com/malramsay64/usyd-beamer-theme
     github_id: malramsay64/usyd-beamer-theme
     category: template
     labels: [latex]
-    homepage: https://github.com/malramsay64/usyd-beamer-theme
 
   - name: COMP2017-Study-Notes
     github_id: Phoebezuo/COMP2017-Study-Notes
+    homepage: https://github.com/Phoebezuo/COMP2017-Study-Notes
     category: learn_material
     labels: [cpp]
-    homepage: https://github.com/Phoebezuo/COMP2017-Study-Notes
 
   - name: DeepRacer
     github_id: MatthewSuntup/DeepRacer
+    homepage: https://github.com/MatthewSuntup/DeepRacer
     category: course_project
     labels: [python]
-    homepage: https://github.com/MatthewSuntup/DeepRacer
 
   - name: COMP5318
     github_id: co234/COMP5318
+    homepage: https://github.com/co234/COMP5318
     category: course_project
     labels: [jupyter,html]
-    homepage: https://github.com/co234/COMP5318
 
   - name: USYDTemplates
+    homepage: https://github.com/emitanaka/USYDTemplates
     github_id: emitanaka/USYDTemplates
     category: template
-    labels: [R]
-    homepage: https://github.com/emitanaka/USYDTemplates
-
+    labels: [r]
+    
   - name: multi_robot_perception
     github_id: jessemorris/multi_robot_perception
     category: course_project
+    homepage: https://github.com/jessemorris/multi_robot_perception
+
+  - name: mtrx5700-resources
+    github_id: ACFR-RPG/mtrx5700-resources
+    category: learn_material
+    # homepage: https://github.com/ACFR-RPG/mtrx5700-resources
+
+  - name: modal-symbolic-learning-course
+    github_id: https://github.com/aclai-lab/modal-symbolic-learning-course
+    category: learn_material
+    labels: [html, jupyter]
+    # homepage: https://github.com/aclai-lab/modal-symbolic-learning-course
+
+  - name: SpikeNet
+    github_id: BrainDynamicsUSYD/SpikeNet
+    category: study_research_tools
+    # homepage: https://github.com/BrainDynamicsUSYD/SpikeNet
+    labels: [matlab, cpp, html]
+
+  - name: usydColours
+    github_id: Sydney-Informatics-Hub/usydColours
+    category: usyd_theme_gadgets
+    # homepage: https://github.com/Sydney-Informatics-Hub/usydColours
+    labels: [r]
+  
+  - name: STAT5003
+    github_id: Qiuzusyd/STAT5003
+    category: learn_material
+    # homepage: https://github.com/Qiuzusyd/STAT5003
+    labels: [html]
+
+  - name: COMP5347-Web-Application-Development
+    github_id: kunzhang1110/COMP5347-Web-Application-Development
+    category: learn_material
+    # homepage: https://github.com/kunzhang1110/COMP5347-Web-Application-Development
+    labels: [web]

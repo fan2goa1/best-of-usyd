@@ -1,6 +1,7 @@
-,name,github_id,category,labels,homepage,description,projectrank,show,trending
+,name,github_id,category,labels,homepage,description,projectrank,show,new_addition
 0,USYD-beamer-theme,malramsay64/usyd-beamer-theme,template,['latex'],https://github.com/malramsay64/usyd-beamer-theme,,0,True,
-1,COMP2017-Study-Notes,Phoebezuo/COMP2017-Study-Notes,learn_material,['cpp'],https://github.com/Phoebezuo/COMP2017-Study-Notes,,0,True,-1.0
-2,DeepRacer,MatthewSuntup/DeepRacer,course_project,['python'],https://github.com/MatthewSuntup/DeepRacer,,0,True,-4.0
-3,COMP5318,co234/COMP5318,course_project,"['jupyter', 'html']",https://github.com/co234/COMP5318,,0,True,-4.0
-4,USYDTemplates,emitanaka/USYDTemplates,template,['R'],https://github.com/emitanaka/USYDTemplates,,0,True,-2.0
+1,COMP2017-Study-Notes,Phoebezuo/COMP2017-Study-Notes,learn_material,['cpp'],https://github.com/Phoebezuo/COMP2017-Study-Notes,,0,True,
+2,DeepRacer,MatthewSuntup/DeepRacer,course_project,['python'],https://github.com/MatthewSuntup/DeepRacer,,0,True,
+3,COMP5318,co234/COMP5318,course_project,"['jupyter', 'html']",https://github.com/co234/COMP5318,,0,True,
+4,USYDTemplates,emitanaka/USYDTemplates,template,['R'],https://github.com/emitanaka/USYDTemplates,,0,True,
+5,multi_robot_perception,jessemorris/multi_robot_perception,course_project,,,,0,False,True

@@ -63,7 +63,7 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 	git clone https://github.com/malramsay64/usyd-beamer-theme
 	```
 </details>
-<details><summary><b><a href="https://github.com/emitanaka/USYDTemplates">USYDTemplates</a></b> (📉) -  <code>❗Unlicensed</code> <code>📊R</code></summary>
+<details><summary><b><a href="https://github.com/emitanaka/USYDTemplates">USYDTemplates</a></b> -  <code>❗Unlicensed</code> <code>📊R</code></summary>
 
 - [GitHub]():
 
@@ -79,7 +79,7 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 
 _Projects that are part of a course, tutorial or competition._
 
-<details><summary><b><a href="https://github.com/MatthewSuntup/DeepRacer">DeepRacer</a></b> (📉) -  <code>❗Unlicensed</code> <code>🐍Python</code></summary>
+<details><summary><b><a href="https://github.com/MatthewSuntup/DeepRacer">DeepRacer</a></b> -  <code>❗Unlicensed</code> <code>🐍Python</code></summary>
 
 - [GitHub]():
 
@@ -87,7 +87,7 @@ _Projects that are part of a course, tutorial or competition._
 	git clone https://github.com/MatthewSuntup/DeepRacer
 	```
 </details>
-<details><summary><b><a href="https://github.com/co234/COMP5318">COMP5318</a></b> (📉) -  <code>❗Unlicensed</code> <code>📔Jupyter Notebook</code> <code>🌐HTML</code></summary>
+<details><summary><b><a href="https://github.com/co234/COMP5318">COMP5318</a></b> -  <code>❗Unlicensed</code> <code>📔Jupyter Notebook</code> <code>🌐HTML</code></summary>
 
 - [GitHub]():
 
@@ -103,7 +103,7 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> (📉) -  <code>❗Unlicensed</code> <code>#️⃣C/C++</code></summary>
+<details><summary><b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> -  <code>❗Unlicensed</code> <code>#️⃣C/C++</code></summary>
 
 - [GitHub]():
 
@@ -134,6 +134,16 @@ Contributions are encouraged and always welcome! If you like to add or update pr
 If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/fan2goa1/best-of-usyd/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/fan2goa1/best-of-usyd/blob/main/.github/CODE_OF_CONDUCT.md).
+
+## Star Trends
+
+<a href="https://star-history.com/#fan2goa1/best-of-usyd&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=fan2goa1/best-of-usyd&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=fan2goa1/best-of-usyd&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=fan2goa1/best-of-usyd&type=Date" />
+  </picture>
+</a>
 
 ## License
 

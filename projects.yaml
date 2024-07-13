@@ -130,3 +130,8 @@ projects:
   - name: usyd-work
     github_id: antrikshdhand/usyd-work
     category: learn_material
+
+  - name: usyd_wams_calculator
+    github_id: LiZeLim/usyd_wams_calculator
+    category: misc
+    license: MIT

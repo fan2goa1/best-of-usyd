@@ -135,3 +135,8 @@ projects:
     github_id: LiZeLim/usyd_wams_calculator
     category: misc
     license: MIT
+
+  - name: public_material_2023S1
+    github_id: COMP3420-2023S1/public_material_2023S1
+    category: learn_material
+    license: GPL-3.0

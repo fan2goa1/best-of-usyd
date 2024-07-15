@@ -140,3 +140,7 @@ projects:
     github_id: COMP3420-2023S1/public_material_2023S1
     category: learn_material
     license: GPL-3.0
+
+  - name: SSPS4102-SSPS6006
+    github_id: fraba/SSPS4102-SSPS6006
+    category: learn_material

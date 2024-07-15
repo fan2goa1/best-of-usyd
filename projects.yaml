@@ -140,3 +140,7 @@ projects:
     github_id: COMP3420-2023S1/public_material_2023S1
     category: learn_material
     license: GPL-3.0
+
+  - name: Anomaly-Detection-For-IoT-Devices
+    github_id: Tim-101/Anomaly-Detection-For-IoT-Devices
+    category: course_project

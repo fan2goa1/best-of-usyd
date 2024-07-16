@@ -152,3 +152,7 @@ projects:
   - name: SSPS4102-SSPS6006
     github_id: fraba/SSPS4102-SSPS6006
     category: learn_material
+
+  - name: i-Control
+    github_id: minhlongds0312/i-Control
+    category: course_project

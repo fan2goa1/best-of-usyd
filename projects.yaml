@@ -164,3 +164,8 @@ projects:
   - name: SydneyUniversityMathematicsNotes
     github_id: ajtulloch/SydneyUniversityMathematicsNotes
     category: learn_material
+
+  - name: COMP5328_assignment
+    github_id: considineyang/COMP5328_assignment
+    category: learn_material
+    license: Apache-2.0

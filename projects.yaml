@@ -156,3 +156,7 @@ projects:
   - name: i-Control
     github_id: minhlongds0312/i-Control
     category: course_project
+
+  - name: vue-flask-private-chat
+    github_id: Lawson-Han/vue-flask-private-chat
+    category: course_project

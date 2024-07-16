@@ -148,3 +148,7 @@ projects:
   - name: DATA5207-Data-Analysis-in-the-Social-Sciences
     github_id: kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences
     category: learn_material
+
+  - name: SSPS4102-SSPS6006
+    github_id: fraba/SSPS4102-SSPS6006
+    category: learn_material

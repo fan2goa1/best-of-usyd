@@ -160,3 +160,7 @@ projects:
   - name: vue-flask-private-chat
     github_id: Lawson-Han/vue-flask-private-chat
     category: course_project
+
+  - name: SydneyUniversityMathematicsNotes
+    github_id: ajtulloch/SydneyUniversityMathematicsNotes
+    category: learn_material

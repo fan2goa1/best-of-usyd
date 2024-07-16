@@ -144,3 +144,7 @@ projects:
   - name: Anomaly-Detection-For-IoT-Devices
     github_id: Tim-101/Anomaly-Detection-For-IoT-Devices
     category: course_project
+
+  - name: DATA5207-Data-Analysis-in-the-Social-Sciences
+    github_id: kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences
+    category: learn_material

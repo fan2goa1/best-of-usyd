@@ -70,7 +70,7 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 
 _Projects that are part of a course, tutorial or competition._
 
-<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉2 ·  ⭐ 3 · ➕) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉2 ·  ⭐ 3) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Lawson-Han/vue-flask-private-chat) (👨‍💻 2 · ⏱️ 24.05.2024):
 
@@ -101,7 +101,7 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥈4 ·  ⭐ 33) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
+<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥈4 ·  ⭐ 34) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
 
 - [GitHub](https://github.com/Qiuzusyd/STAT5003) (👨‍💻 2 · 🔀 5 · ⏱️ 29.02.2024):
 
@@ -149,7 +149,7 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/kunzhang1110/COMP5347-Web-Application-Development
 	```
 </details>
-<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (➕) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 15.07.2024):
 

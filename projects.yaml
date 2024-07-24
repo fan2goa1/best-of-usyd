@@ -169,3 +169,10 @@ projects:
     github_id: considineyang/COMP5328_assignment
     category: learn_material
     license: Apache-2.0
+    
+  - name: usyd-typst-slides
+    homepage: https://github.com/juraph-dev/usyd-slides-typst
+    github_id: juraph-dev/usyd-slides-typst
+    category: template
+    labels: [typst, polylux]
+    license: MIT

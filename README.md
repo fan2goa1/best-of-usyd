@@ -15,18 +15,18 @@
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
     <a href="https://github.com/fan2goa1/best-of-usyd" title="best of USYD"><img alt="best of USYD" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/fan2goa1/best-of-usyd/main/assets/badge/v1.json"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-21-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-22-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/fan2goa1/best-of-usyd/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fan2goa1/best-of-usyd?color=green&label=updated"></a>
 </p>
 
-This curated list contains 21 awesome open-source projects with a total of 250 stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fan2goa1/best-of-usyd/issues/new/choose), submit a [pull request](https://github.com/fan2goa1/best-of-usyd/pulls), or directly edit the [projects.yaml](https://github.com/fan2goa1/best-of-usyd/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 22 awesome open-source projects with a total of 250 stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fan2goa1/best-of-usyd/issues/new/choose), submit a [pull request](https://github.com/fan2goa1/best-of-usyd/pulls), or directly edit the [projects.yaml](https://github.com/fan2goa1/best-of-usyd/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [📁Template](#template) _2 projects_
+- [📁Template](#template) _3 projects_
 - [📚Course Projects](#course-projects) _6 projects_
 - [📖Learning Material](#learning-material) _10 projects_
 - [🔧Study & research tools](#study--research-tools) _1 projects_
@@ -57,6 +57,14 @@ This curated list contains 21 awesome open-source projects with a total of 250 s
 
 _All kinds of templates, e.g. latex, beamer, or other templates._
 
+<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉4 · ➕) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
+
+- [GitHub](https://github.com/juraph-dev/usyd-slides-typst) (⏱️ 24.07.2024):
+
+	```
+	git clone https://github.com/juraph-dev/usyd-slides-typst
+	```
+</details>
 <details><summary>Show 2 hidden projects...</summary>
 
 - <b><a href="https://github.com/malramsay64/usyd-beamer-theme">USYD-beamer-theme</a></b> (🥇11 ·  ⭐ 34 · 💀) - A Beamer theme that adheres to the University of Sydney Branding. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>

@@ -20,7 +20,7 @@
     <a href="https://github.com/fan2goa1/best-of-usyd/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fan2goa1/best-of-usyd?color=green&label=updated"></a>
 </p>
 
-This curated list contains 22 awesome open-source projects with a total of 250 stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fan2goa1/best-of-usyd/issues/new/choose), submit a [pull request](https://github.com/fan2goa1/best-of-usyd/pulls), or directly edit the [projects.yaml](https://github.com/fan2goa1/best-of-usyd/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 22 awesome open-source projects with a total of 260 stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fan2goa1/best-of-usyd/issues/new/choose), submit a [pull request](https://github.com/fan2goa1/best-of-usyd/pulls), or directly edit the [projects.yaml](https://github.com/fan2goa1/best-of-usyd/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -57,7 +57,7 @@ This curated list contains 22 awesome open-source projects with a total of 250 s
 
 _All kinds of templates, e.g. latex, beamer, or other templates._
 
-<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉4 · ➕) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
+<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉4 · 🐣) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
 
 - [GitHub](https://github.com/juraph-dev/usyd-slides-typst) (⏱️ 24.07.2024):
 
@@ -78,7 +78,7 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 
 _Projects that are part of a course, tutorial or competition._
 
-<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉2 ·  ⭐ 3) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉1 ·  ⭐ 3 · 📉) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Lawson-Han/vue-flask-private-chat) (👨‍💻 2 · ⏱️ 24.05.2024):
 
@@ -97,7 +97,7 @@ _Projects that are part of a course, tutorial or competition._
 <details><summary>Show 4 hidden projects...</summary>
 
 - <b><a href="https://github.com/MatthewSuntup/DeepRacer">DeepRacer</a></b> (🥇4 ·  ⭐ 50 · 💀) - An overview of our teams strategy and development for USYDs 2020 AWS DeepRacer competition. <code>❗Unlicensed</code> <code>🐍Python</code>
-- <b><a href="https://github.com/co234/COMP5318">COMP5318</a></b> (🥇4 ·  ⭐ 15 · 💀) - Tutorial materials for COMP5318-USYD. <code>❗Unlicensed</code> <code>📔Jupyter Notebook</code> <code>🌐HTML</code>
+- <b><a href="https://github.com/co234/COMP5318">COMP5318</a></b> (🥇4 ·  ⭐ 16 · 💀) - Tutorial materials for COMP5318-USYD. <code>❗Unlicensed</code> <code>📔Jupyter Notebook</code> <code>🌐HTML</code>
 - <b><a href="https://github.com/jessemorris/multi_robot_perception">multi_robot_perception</a></b> (🥇4 ·  ⭐ 9 · 💀) - Ma thesis @usyd. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Tim-101/Anomaly-Detection-For-IoT-Devices">Anomaly-Detection-For-IoT-Devices</a></b> (🥇4 ·  ⭐ 4 · 💀) - This project is part of my capstone project at The University of Sydney. <code>❗Unlicensed</code>
 </details>
@@ -109,9 +109,9 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥈4 ·  ⭐ 34) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
+<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥈4 ·  ⭐ 38) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
 
-- [GitHub](https://github.com/Qiuzusyd/STAT5003) (👨‍💻 2 · 🔀 5 · ⏱️ 29.02.2024):
+- [GitHub](https://github.com/Qiuzusyd/STAT5003) (👨‍💻 2 · 🔀 6 · ⏱️ 29.02.2024):
 
 	```
 	git clone https://github.com/Qiuzusyd/STAT5003
@@ -125,7 +125,7 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/considineyang/COMP5328_assignment
 	```
 </details>
-<details><summary><b><a href="https://github.com/ACFR-RPG/mtrx5700-resources">mtrx5700-resources</a></b> (🥈3 ·  ⭐ 10) - Quick-start guides, helper code, tips and tricks for use in MTRX5700 @ The University of Sydney. Copyright. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ACFR-RPG/mtrx5700-resources">mtrx5700-resources</a></b> (🥈3 ·  ⭐ 10 · 💤) - Quick-start guides, helper code, tips and tricks for use in MTRX5700 @ The University of Sydney. Copyright. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/ACFR-RPG/mtrx5700-resources) (👨‍💻 3 · 🔀 1 · ⏱️ 24.01.2024):
 
@@ -157,9 +157,9 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/kunzhang1110/COMP5347-Web-Application-Development
 	```
 </details>
-<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥉2 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 15.07.2024):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 01.08.2024):
 
 	```
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
@@ -167,9 +167,9 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary>Show 3 hidden projects...</summary>
 
-- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇7 ·  ⭐ 37 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 37 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/COMP3420-2023S1/public_material_2023S1">public_material_2023S1</a></b> (🥈3 ·  ⭐ 2 · 💀) - Resources related to the 2023 offering of COMP3420 AI for Text and Vision at the School of Computing of Macquarie.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
-- <b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> (🥉1 ·  ⭐ 15 · 💀) - Study Notes for COMP2017 at USYD. <code>❗Unlicensed</code> <code>#️⃣C/C++</code>
+- <b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> (🥉1 ·  ⭐ 16 · 💀) - Study Notes for COMP2017 at USYD. <code>❗Unlicensed</code> <code>#️⃣C/C++</code>
 </details>
 <br>
 
@@ -179,13 +179,9 @@ _Material that helps you to dive deep into specific courses._
 
 _Tools that help you to study and research more efficiently. e.g. xx learning platform_
 
-<details><summary><b><a href="https://github.com/BrainDynamicsUSYD/SpikeNet">SpikeNet</a></b> (🥇8 ·  ⭐ 14 · 💤) - A computational platform for studying spiking neural circuits developed by Dr. Pulin Gongs group at University of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>🧮Matlab</code> <code>#️⃣C/C++</code> <code>🌐HTML</code></summary>
+<details><summary>Show 1 hidden projects...</summary>
 
-- [GitHub](https://github.com/BrainDynamicsUSYD/SpikeNet) (👨‍💻 10 · 🔀 5 · 📋 29 - 51% open · ⏱️ 18.07.2023):
-
-	```
-	git clone https://github.com/BrainDynamicsUSYD/SpikeNet
-	```
+- <b><a href="https://github.com/BrainDynamicsUSYD/SpikeNet">SpikeNet</a></b> (🥇8 ·  ⭐ 14 · 💀) - A computational platform for studying spiking neural circuits developed by Dr. Pulin Gongs group at University of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>🧮Matlab</code> <code>#️⃣C/C++</code> <code>🌐HTML</code>
 </details>
 <br>
 
@@ -195,7 +191,7 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc._
 
-<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇7 ·  ⭐ 6) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
+<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇6 ·  ⭐ 6 · 📉) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
 
 - [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 3 · 🔀 2 · ⏱️ 22.05.2024):
 
@@ -209,7 +205,7 @@ _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/LiZeLim/usyd_wams_calculator">usyd_wams_calculator</a></b> (🥇4) - A EIHWAM + WAM calculator for USYD Students. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/LiZeLim/usyd_wams_calculator">usyd_wams_calculator</a></b> (🥇4 · 🐣) - A EIHWAM + WAM calculator for USYD Students. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/LiZeLim/usyd_wams_calculator) (⏱️ 04.07.2024):
 

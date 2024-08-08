@@ -59,7 +59,7 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 
 <details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉4 · 🐣) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
 
-- [GitHub](https://github.com/juraph-dev/usyd-slides-typst) (⏱️ 24.07.2024):
+- [GitHub](https://github.com/juraph-dev/usyd-slides-typst) (⏱️ 02.08.2024):
 
 	```
 	git clone https://github.com/juraph-dev/usyd-slides-typst
@@ -78,7 +78,7 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 
 _Projects that are part of a course, tutorial or competition._
 
-<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉1 ·  ⭐ 3 · 📉) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉1 ·  ⭐ 3) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Lawson-Han/vue-flask-private-chat) (👨‍💻 2 · ⏱️ 24.05.2024):
 
@@ -109,7 +109,7 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥈4 ·  ⭐ 38) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
+<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥈4 ·  ⭐ 39) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
 
 - [GitHub](https://github.com/Qiuzusyd/STAT5003) (👨‍💻 2 · 🔀 6 · ⏱️ 29.02.2024):
 
@@ -159,7 +159,7 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥉2 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 01.08.2024):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 08.08.2024):
 
 	```
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
@@ -191,7 +191,7 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc._
 
-<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇6 ·  ⭐ 6 · 📉) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
+<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇6 ·  ⭐ 6) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
 
 - [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 3 · 🔀 2 · ⏱️ 22.05.2024):
 

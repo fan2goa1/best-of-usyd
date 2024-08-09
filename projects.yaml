@@ -176,3 +176,7 @@ projects:
     category: template
     labels: [typst, polylux]
     license: MIT
+
+  - name: COMP9120_assignment
+    github_id: jloc8749/ROCO
+    category: learn_material

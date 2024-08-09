@@ -180,3 +180,7 @@ projects:
   - name: COMP9120_assignment
     github_id: jloc8749/ROCO
     category: learn_material
+
+  - name: COMP5310-Principles_of_Data_Science
+    github_id: jsnarvasa/COMP5310
+    category: learn_material

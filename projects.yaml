@@ -188,3 +188,7 @@ projects:
   - name: COMP5318-Machine_Learning_and_Data_Mining
     github_id: Sanna-Nazir/COMP5318-MachineLearning
     category: learn_material
+
+  - name: COMP9601-Theory_of_Computation_and_Algorithms_Design-2015
+    github_id: mengnan-course/COMP9601-Theory-of-Computation-and-Algorithms-Design-2015
+    category: learn_material

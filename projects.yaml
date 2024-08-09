@@ -184,3 +184,7 @@ projects:
   - name: COMP5310-Principles_of_Data_Science
     github_id: jsnarvasa/COMP5310
     category: learn_material
+
+  - name: COMP5318-Machine_Learning_and_Data_Mining
+    github_id: Sanna-Nazir/COMP5318-MachineLearning
+    category: learn_material

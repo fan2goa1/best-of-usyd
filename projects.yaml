@@ -196,3 +196,7 @@ projects:
   - name: INFO6007-Project_Management_in_IT
     github_id: Kenoki41/INFO6007
     category: learn_material
+    
+  - name: INFO5990-Professional_Practice_in_IT
+    github_id: Kenoki41/INFO5990
+    category: learn_material

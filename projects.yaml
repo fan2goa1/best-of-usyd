@@ -200,3 +200,7 @@ projects:
   - name: INFO5990-Professional_Practice_in_IT
     github_id: Kenoki41/INFO5990
     category: learn_material
+
+  - name: INFO5992-IT_innovation
+    github_id: frisokaiyu/info5992-IT-innovation
+    category: learn_material

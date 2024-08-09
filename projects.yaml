@@ -192,3 +192,7 @@ projects:
   - name: COMP9601-Theory_of_Computation_and_Algorithms_Design-2015
     github_id: mengnan-course/COMP9601-Theory-of-Computation-and-Algorithms-Design-2015
     category: learn_material
+
+  - name: INFO6007-Project_Management_in_IT
+    github_id: Kenoki41/INFO6007
+    category: learn_material

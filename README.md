@@ -157,9 +157,9 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/kunzhang1110/COMP5347-Web-Application-Development
 	```
 </details>
-<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥉1 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥉2 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 15.08.2024):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 22.08.2024):
 
 	```
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
@@ -170,10 +170,10 @@ _Material that helps you to dive deep into specific courses._
 - <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 37 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/COMP3420-2023S1/public_material_2023S1">public_material_2023S1</a></b> (🥈3 ·  ⭐ 2 · 💀) - Resources related to the 2023 offering of COMP3420 AI for Text and Vision at the School of Computing of Macquarie.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/jloc8749/ROCO">COMP9120_assignment</a></b> (🥈3 · 💀) - comp9120 database assignment. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/jsnarvasa/COMP5310">COMP5310-Principles_of_Data_Science</a></b> (🥉2 ·  ⭐ 3 · 💀) - Computer Science 5310 - Principles of Data Science. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> (🥉1 ·  ⭐ 16 · 💀) - Study Notes for COMP2017 at USYD. <code>❗Unlicensed</code> <code>#️⃣C/C++</code>
 - <b><a href="https://github.com/Kenoki41/INFO5990">INFO5990-Professional_Practice_in_IT</a></b> (🥉1 ·  ⭐ 6 · 💀) - INFO5990 Professional Practice in IT. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Sanna-Nazir/COMP5318-MachineLearning">COMP5318-Machine_Learning_and_Data_Mining</a></b> (🥉1 ·  ⭐ 3 · 💀) - University Coursework for COMP5318: Machine Learning and Data Mining (Semester 2, 2019). <code>❗Unlicensed</code>
-- <b><a href="https://github.com/jsnarvasa/COMP5310">COMP5310-Principles_of_Data_Science</a></b> (🥉1 ·  ⭐ 2 · 💀) - Computer Science 5310 - Principles of Data Science. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/frisokaiyu/info5992-IT-innovation">INFO5992-IT_innovation</a></b> (🥉1 ·  ⭐ 1 · 💀) - usyd-info5992-IT-innovation...... <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Kenoki41/INFO6007">INFO6007-Project_Management_in_IT</a></b> (🥉1 · 💀) - INFO6007 Project Management in IT. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/mengnan-course/COMP9601-Theory-of-Computation-and-Algorithms-Design-2015">COMP9601-Theory_of_Computation_and_Algorithms_Design-2015</a></b> ( ⭐ 1 · 💀) - COMP9601. <code>❗Unlicensed</code>
@@ -188,7 +188,7 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/BrainDynamicsUSYD/SpikeNet">SpikeNet</a></b> (🥇8 ·  ⭐ 14 · 💀) - A computational platform for studying spiking neural circuits developed by Dr. Pulin Gongs group at University of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>🧮Matlab</code> <code>#️⃣C/C++</code> <code>🌐HTML</code>
+- <b><a href="https://github.com/BrainDynamicsUSYD/SpikeNet">SpikeNet</a></b> (🥇8 ·  ⭐ 13 · 💀) - A computational platform for studying spiking neural circuits developed by Dr. Pulin Gongs group at University of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>🧮Matlab</code> <code>#️⃣C/C++</code> <code>🌐HTML</code>
 </details>
 <br>
 
@@ -198,9 +198,9 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc._
 
-<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇6 ·  ⭐ 6) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
+<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇7 ·  ⭐ 6 · 📈) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
 
-- [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 3 · 🔀 2 · ⏱️ 22.05.2024):
+- [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 3 · 🔀 2 · ⏱️ 22.08.2024):
 
 	```
 	git clone https://github.com/Sydney-Informatics-Hub/usydColours

@@ -96,7 +96,7 @@ _Projects that are part of a course, tutorial or competition._
 </details>
 <details><summary>Show 4 hidden projects...</summary>
 
-- <b><a href="https://github.com/MatthewSuntup/DeepRacer">DeepRacer</a></b> (🥇4 ·  ⭐ 50 · 💀) - An overview of our teams strategy and development for USYDs 2020 AWS DeepRacer competition. <code>❗Unlicensed</code> <code>🐍Python</code>
+- <b><a href="https://github.com/MatthewSuntup/DeepRacer">DeepRacer</a></b> (🥇4 ·  ⭐ 51 · 💀) - An overview of our teams strategy and development for USYDs 2020 AWS DeepRacer competition. <code>❗Unlicensed</code> <code>🐍Python</code>
 - <b><a href="https://github.com/co234/COMP5318">COMP5318</a></b> (🥇4 ·  ⭐ 16 · 💀) - Tutorial materials for COMP5318-USYD. <code>❗Unlicensed</code> <code>📔Jupyter Notebook</code> <code>🌐HTML</code>
 - <b><a href="https://github.com/jessemorris/multi_robot_perception">multi_robot_perception</a></b> (🥇4 ·  ⭐ 9 · 💀) - Ma thesis @usyd. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Tim-101/Anomaly-Detection-For-IoT-Devices">Anomaly-Detection-For-IoT-Devices</a></b> (🥇4 ·  ⭐ 4 · 💀) - This project is part of my capstone project at The University of Sydney. <code>❗Unlicensed</code>
@@ -109,7 +109,7 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥇4 ·  ⭐ 43) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
+<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥇4 ·  ⭐ 44) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
 
 - [GitHub](https://github.com/Qiuzusyd/STAT5003) (👨‍💻 2 · 🔀 6 · ⏱️ 29.02.2024):
 
@@ -159,7 +159,7 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥉2 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 22.08.2024):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 29.08.2024):
 
 	```
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
@@ -198,7 +198,7 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc._
 
-<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇7 ·  ⭐ 6 · 📈) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
+<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇7 ·  ⭐ 6) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
 
 - [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 3 · 🔀 2 · ⏱️ 22.08.2024):
 

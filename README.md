@@ -67,8 +67,8 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/malramsay64/usyd-beamer-theme">USYD-beamer-theme</a></b> (🥇11 ·  ⭐ 35 · 💀) - A Beamer theme that adheres to the University of Sydney Branding. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>
-- <b><a href="https://github.com/emitanaka/USYDTemplates">USYDTemplates</a></b> (🥉2 ·  ⭐ 9 · 💀) - R Markdown templates for the University of Sydney. <code>❗Unlicensed</code> <code>📊R</code>
+- <b><a href="https://github.com/malramsay64/usyd-beamer-theme">USYD-beamer-theme</a></b> (🥇11 ·  ⭐ 34 · 💀) - A Beamer theme that adheres to the University of Sydney Branding. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>
+- <b><a href="https://github.com/emitanaka/USYDTemplates">USYDTemplates</a></b> (🥉2 ·  ⭐ 10 · 💀) - R Markdown templates for the University of Sydney. <code>❗Unlicensed</code> <code>📊R</code>
 </details>
 <br>
 
@@ -135,10 +135,18 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈3 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 12.09.2024):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 13.09.2024):
 
 	```
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
+	```
+</details>
+<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3 · 📈) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 4 · ⏱️ 18.06.2024):
+
+	```
+	git clone https://github.com/antrikshdhand/usyd-work
 	```
 </details>
 <details><summary><b><a href="https://github.com/kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences">DATA5207-Data-Analysis-in-the-Social-Sciences</a></b> (🥉2 ·  ⭐ 5 · 💤) - Solutions for DATA5207 Data Analysis in the Social Sciences from the University of Sydney. <code>❗Unlicensed</code></summary>
@@ -155,14 +163,6 @@ _Material that helps you to dive deep into specific courses._
 
 	```
 	git clone https://github.com/kunzhang1110/COMP5347-Web-Application-Development
-	```
-</details>
-<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥉2) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 4 · ⏱️ 18.06.2024):
-
-	```
-	git clone https://github.com/antrikshdhand/usyd-work
 	```
 </details>
 <details><summary>Show 10 hidden projects...</summary>

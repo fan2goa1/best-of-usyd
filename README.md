@@ -109,7 +109,7 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥇4 ·  ⭐ 46 · 💤) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
+<details><summary><b><a href="https://github.com/Qiuzusyd/STAT5003">STAT5003</a></b> (🥇4 ·  ⭐ 45 · 💤) - This repository is used for sharing learning materials about Computational Statistical Methods (STAT 5003) at the.. <code>❗Unlicensed</code> <code>🌐HTML</code></summary>
 
 - [GitHub](https://github.com/Qiuzusyd/STAT5003) (👨‍💻 2 · 🔀 6 · ⏱️ 29.02.2024):
 
@@ -135,13 +135,13 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈3 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 13.09.2024):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 26.09.2024):
 
 	```
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
 	```
 </details>
-<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3 · 📈) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 4 · ⏱️ 18.06.2024):
 

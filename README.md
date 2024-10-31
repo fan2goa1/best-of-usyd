@@ -57,7 +57,7 @@ This curated list contains 28 awesome open-source projects with a total of 240 s
 
 _All kinds of templates, e.g. latex, beamer, or other templates._
 
-<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉2 ·  ⭐ 1 · 🐣) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
+<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉3 ·  ⭐ 1 · 🐣) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
 
 - [GitHub](https://github.com/juraph-dev/usyd-slides-typst) (⏱️ 02.08.2024):
 
@@ -127,7 +127,7 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈3 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 17.10.2024):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 25.10.2024):
 
 	```
 	git clone https://github.com/fraba/SSPS4102-SSPS6006

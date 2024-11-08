@@ -57,7 +57,7 @@ This curated list contains 28 awesome open-source projects with a total of 240 s
 
 _All kinds of templates, e.g. latex, beamer, or other templates._
 
-<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉3 ·  ⭐ 1 · 🐣) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
+<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉2 ·  ⭐ 1 · 🐣) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
 
 - [GitHub](https://github.com/juraph-dev/usyd-slides-typst) (⏱️ 02.08.2024):
 
@@ -78,9 +78,9 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 
 _Projects that are part of a course, tutorial or competition._
 
-<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉1 ·  ⭐ 3) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉2 ·  ⭐ 3 · 📈) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Lawson-Han/vue-flask-private-chat) (👨‍💻 2 · ⏱️ 24.05.2024):
+- [GitHub](https://github.com/Lawson-Han/vue-flask-private-chat) (⏱️ 24.05.2024):
 
 	```
 	git clone https://github.com/Lawson-Han/vue-flask-private-chat
@@ -109,12 +109,12 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/considineyang/COMP5328_assignment">COMP5328_assignment</a></b> (🥇4 · 💤) - COMP5328 advanced machine learning in university of sydney assignments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥇4 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/considineyang/COMP5328_assignment) (⏱️ 09.10.2023):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 31.10.2024):
 
 	```
-	git clone https://github.com/considineyang/COMP5328_assignment
+	git clone https://github.com/fraba/SSPS4102-SSPS6006
 	```
 </details>
 <details><summary><b><a href="https://github.com/ACFR-RPG/mtrx5700-resources">mtrx5700-resources</a></b> (🥈3 ·  ⭐ 10 · 💤) - Quick-start guides, helper code, tips and tricks for use in MTRX5700 @ The University of Sydney. Copyright. <code>❗Unlicensed</code></summary>
@@ -125,17 +125,9 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/ACFR-RPG/mtrx5700-resources
 	```
 </details>
-<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈3 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 25.10.2024):
-
-	```
-	git clone https://github.com/fraba/SSPS4102-SSPS6006
-	```
-</details>
 <details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 4 · ⏱️ 18.06.2024):
+- [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 3 · ⏱️ 18.06.2024):
 
 	```
 	git clone https://github.com/antrikshdhand/usyd-work
@@ -157,9 +149,10 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/kunzhang1110/COMP5347-Web-Application-Development
 	```
 </details>
-<details><summary>Show 10 hidden projects...</summary>
+<details><summary>Show 11 hidden projects...</summary>
 
 - <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 37 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/considineyang/COMP5328_assignment">COMP5328_assignment</a></b> (🥇4 · 💀) - COMP5328 advanced machine learning in university of sydney assignments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/COMP3420-2023S1/public_material_2023S1">public_material_2023S1</a></b> (🥈3 ·  ⭐ 2 · 💀) - Resources related to the 2023 offering of COMP3420 AI for Text and Vision at the School of Computing of Macquarie.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/jloc8749/ROCO">COMP9120_assignment</a></b> (🥈3 · 💀) - comp9120 database assignment. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/jsnarvasa/COMP5310">COMP5310-Principles_of_Data_Science</a></b> (🥉2 ·  ⭐ 3 · 💀) - Computer Science 5310 - Principles of Data Science. <code>❗Unlicensed</code>
@@ -190,7 +183,7 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc._
 
-<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇7 ·  ⭐ 8) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
+<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇5 ·  ⭐ 8 · 📉) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
 
 - [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 3 · 🔀 2 · ⏱️ 22.08.2024):
 

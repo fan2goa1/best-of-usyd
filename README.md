@@ -78,7 +78,7 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 
 _Projects that are part of a course, tutorial or competition._
 
-<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉2 ·  ⭐ 3) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Lawson-Han/vue-flask-private-chat">vue-flask-private-chat</a></b> (🥉2 ·  ⭐ 3 · 💤) - University of Sydney INFO2222 assignment 1 - Real-time Private Chat. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Lawson-Han/vue-flask-private-chat) (⏱️ 24.05.2024):
 
@@ -86,7 +86,7 @@ _Projects that are part of a course, tutorial or competition._
 	git clone https://github.com/Lawson-Han/vue-flask-private-chat
 	```
 </details>
-<details><summary><b><a href="https://github.com/minhlongds0312/i-Control">i-Control</a></b> (🐣) - Data Science senior project @ The University of Sydney. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/minhlongds0312/i-Control">i-Control</a></b> (🥉1 · 🐣) - Data Science senior project @ The University of Sydney. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/minhlongds0312/i-Control) (⏱️ 01.06.2024):
 
@@ -133,28 +133,14 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/antrikshdhand/usyd-work
 	```
 </details>
-<details><summary><b><a href="https://github.com/kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences">DATA5207-Data-Analysis-in-the-Social-Sciences</a></b> (🥉2 ·  ⭐ 5 · 💤) - Solutions for DATA5207 Data Analysis in the Social Sciences from the University of Sydney. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences) (🔀 4 · ⏱️ 20.11.2023):
-
-	```
-	git clone https://github.com/kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences
-	```
-</details>
-<details><summary><b><a href="https://github.com/kunzhang1110/COMP5347-Web-Application-Development">COMP5347-Web-Application-Development</a></b> (🥉2 ·  ⭐ 4 · 💤) - Solutions for COMP5347 Web Application Development from the University of Sydney. <code>❗Unlicensed</code> <code>🕸️Web</code></summary>
-
-- [GitHub](https://github.com/kunzhang1110/COMP5347-Web-Application-Development) (🔀 7 · ⏱️ 20.11.2023):
-
-	```
-	git clone https://github.com/kunzhang1110/COMP5347-Web-Application-Development
-	```
-</details>
-<details><summary>Show 11 hidden projects...</summary>
+<details><summary>Show 13 hidden projects...</summary>
 
 - <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 37 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/considineyang/COMP5328_assignment">COMP5328_assignment</a></b> (🥇4 · 💀) - COMP5328 advanced machine learning in university of sydney assignments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/COMP3420-2023S1/public_material_2023S1">public_material_2023S1</a></b> (🥈3 ·  ⭐ 2 · 💀) - Resources related to the 2023 offering of COMP3420 AI for Text and Vision at the School of Computing of Macquarie.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/jloc8749/ROCO">COMP9120_assignment</a></b> (🥈3 · 💀) - comp9120 database assignment. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences">DATA5207-Data-Analysis-in-the-Social-Sciences</a></b> (🥉2 ·  ⭐ 5 · 💀) - Solutions for DATA5207 Data Analysis in the Social Sciences from the University of Sydney. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/kunzhang1110/COMP5347-Web-Application-Development">COMP5347-Web-Application-Development</a></b> (🥉2 ·  ⭐ 4 · 💀) - Solutions for COMP5347 Web Application Development from the University of Sydney. <code>❗Unlicensed</code> <code>🕸️Web</code>
 - <b><a href="https://github.com/jsnarvasa/COMP5310">COMP5310-Principles_of_Data_Science</a></b> (🥉2 ·  ⭐ 3 · 💀) - Computer Science 5310 - Principles of Data Science. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> (🥉1 ·  ⭐ 16 · 💀) - Study Notes for COMP2017 at USYD. <code>❗Unlicensed</code> <code>#️⃣C/C++</code>
 - <b><a href="https://github.com/Kenoki41/INFO5990">INFO5990-Professional_Practice_in_IT</a></b> (🥉1 ·  ⭐ 6 · 💀) - INFO5990 Professional Practice in IT. <code>❗Unlicensed</code>

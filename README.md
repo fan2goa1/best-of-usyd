@@ -57,7 +57,7 @@ This curated list contains 28 awesome open-source projects with a total of 240 s
 
 _All kinds of templates, e.g. latex, beamer, or other templates._
 
-<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉3 ·  ⭐ 1 · 🐣) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
+<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉4 ·  ⭐ 1 · 🐣) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
 
 - [GitHub](https://github.com/juraph-dev/usyd-slides-typst) (⏱️ 27.11.2024):
 
@@ -86,7 +86,7 @@ _Projects that are part of a course, tutorial or competition._
 	git clone https://github.com/Lawson-Han/vue-flask-private-chat
 	```
 </details>
-<details><summary><b><a href="https://github.com/minhlongds0312/i-Control">i-Control</a></b> (🥉1 · 🐣) - Data Science senior project @ The University of Sydney. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/minhlongds0312/i-Control">i-Control</a></b> (🥉1 · 💤) - Data Science senior project @ The University of Sydney. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/minhlongds0312/i-Control) (⏱️ 01.06.2024):
 
@@ -125,7 +125,7 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
 	```
 </details>
-<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3 · 💤) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 3 · ⏱️ 18.06.2024):
 
@@ -183,7 +183,7 @@ _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/LiZeLim/usyd_wams_calculator">usyd_wams_calculator</a></b> (🥇3 · 🐣) - A EIHWAM + WAM calculator for USYD Students. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/LiZeLim/usyd_wams_calculator">usyd_wams_calculator</a></b> (🥇4 · 🐣) - A EIHWAM + WAM calculator for USYD Students. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/LiZeLim/usyd_wams_calculator) (⏱️ 04.07.2024):
 

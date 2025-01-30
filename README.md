@@ -117,7 +117,15 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/ACFR-RPG/mtrx5700-resources
 	```
 </details>
-<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈3 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 3 · ⏱️ 05.01.2025):
+
+	```
+	git clone https://github.com/antrikshdhand/usyd-work
+	```
+</details>
+<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥉2 ·  ⭐ 1 · 🐣) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 31.10.2024):
 
@@ -125,24 +133,16 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
 	```
 </details>
-<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3 · 💤) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 3 · ⏱️ 18.06.2024):
-
-	```
-	git clone https://github.com/antrikshdhand/usyd-work
-	```
-</details>
 <details><summary>Show 13 hidden projects...</summary>
 
-- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 38 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 37 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/considineyang/COMP5328_assignment">COMP5328_assignment</a></b> (🥇4 · 💀) - COMP5328 advanced machine learning in university of sydney assignments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/COMP3420-2023S1/public_material_2023S1">public_material_2023S1</a></b> (🥈3 ·  ⭐ 2 · 💀) - Resources related to the 2023 offering of COMP3420 AI for Text and Vision at the School of Computing of Macquarie.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/jloc8749/ROCO">COMP9120_assignment</a></b> (🥈3 · 💀) - comp9120 database assignment. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences">DATA5207-Data-Analysis-in-the-Social-Sciences</a></b> (🥉2 ·  ⭐ 5 · 💀) - Solutions for DATA5207 Data Analysis in the Social Sciences from the University of Sydney. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/kunzhang1110/COMP5347-Web-Application-Development">COMP5347-Web-Application-Development</a></b> (🥉2 ·  ⭐ 4 · 💀) - Solutions for COMP5347 Web Application Development from the University of Sydney. <code>❗Unlicensed</code> <code>🕸️Web</code>
 - <b><a href="https://github.com/jsnarvasa/COMP5310">COMP5310-Principles_of_Data_Science</a></b> (🥉2 ·  ⭐ 3 · 💀) - Computer Science 5310 - Principles of Data Science. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> (🥉1 ·  ⭐ 16 · 💀) - Study Notes for COMP2017 at USYD. <code>❗Unlicensed</code> <code>#️⃣C/C++</code>
+- <b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> (🥉1 ·  ⭐ 17 · 💀) - Study Notes for COMP2017 at USYD. <code>❗Unlicensed</code> <code>#️⃣C/C++</code>
 - <b><a href="https://github.com/Kenoki41/INFO5990">INFO5990-Professional_Practice_in_IT</a></b> (🥉1 ·  ⭐ 6 · 💀) - INFO5990 Professional Practice in IT. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Sanna-Nazir/COMP5318-MachineLearning">COMP5318-Machine_Learning_and_Data_Mining</a></b> (🥉1 ·  ⭐ 3 · 💀) - University Coursework for COMP5318: Machine Learning and Data Mining (Semester 2, 2019). <code>❗Unlicensed</code>
 - <b><a href="https://github.com/frisokaiyu/info5992-IT-innovation">INFO5992-IT_innovation</a></b> (🥉1 ·  ⭐ 1 · 💀) - usyd-info5992-IT-innovation...... <code>❗Unlicensed</code>
@@ -169,9 +169,9 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc._
 
-<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇5 ·  ⭐ 8) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
+<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇5 ·  ⭐ 9) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
 
-- [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 3 · 🔀 2 · ⏱️ 22.08.2024):
+- [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 4 · 🔀 2 · ⏱️ 13.01.2025):
 
 	```
 	git clone https://github.com/Sydney-Informatics-Hub/usydColours

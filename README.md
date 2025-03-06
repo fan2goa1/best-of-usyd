@@ -57,7 +57,7 @@ This curated list contains 28 awesome open-source projects with a total of 250 s
 
 _All kinds of templates, e.g. latex, beamer, or other templates._
 
-<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉3 ·  ⭐ 1 · 📉) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
+<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉3 ·  ⭐ 1) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
 
 - [GitHub](https://github.com/juraph-dev/usyd-slides-typst) (⏱️ 27.11.2024):
 
@@ -67,7 +67,7 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/malramsay64/usyd-beamer-theme">USYD-beamer-theme</a></b> (🥇12 ·  ⭐ 35 · 💀) - A Beamer theme that adheres to the University of Sydney Branding. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>
+- <b><a href="https://github.com/malramsay64/usyd-beamer-theme">USYD-beamer-theme</a></b> (🥇12 ·  ⭐ 36 · 💀) - A Beamer theme that adheres to the University of Sydney Branding. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>
 - <b><a href="https://github.com/emitanaka/USYDTemplates">USYDTemplates</a></b> (🥉2 ·  ⭐ 10 · 💀) - R Markdown templates for the University of Sydney. <code>❗Unlicensed</code> <code>📊R</code>
 </details>
 <br>
@@ -109,9 +109,9 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/ACFR-RPG/mtrx5700-resources">mtrx5700-resources</a></b> (🥇5 ·  ⭐ 11 · 📈) - Quick-start guides, helper code, tips and tricks for use in MTRX5700 @ The University of Sydney. Copyright. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ACFR-RPG/mtrx5700-resources">mtrx5700-resources</a></b> (🥇5 ·  ⭐ 11) - Quick-start guides, helper code, tips and tricks for use in MTRX5700 @ The University of Sydney. Copyright. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/ACFR-RPG/mtrx5700-resources) (👨‍💻 4 · 🔀 1 · ⏱️ 25.02.2025):
+- [GitHub](https://github.com/ACFR-RPG/mtrx5700-resources) (👨‍💻 5 · 🔀 1 · ⏱️ 05.03.2025):
 
 	```
 	git clone https://github.com/ACFR-RPG/mtrx5700-resources
@@ -119,7 +119,7 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈3 ·  ⭐ 1) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 27.02.2025):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 05.03.2025):
 
 	```
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
@@ -135,7 +135,7 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary>Show 13 hidden projects...</summary>
 
-- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 38 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 40 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/considineyang/COMP5328_assignment">COMP5328_assignment</a></b> (🥈4 · 💀) - COMP5328 advanced machine learning in university of sydney assignments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/COMP3420-2023S1/public_material_2023S1">public_material_2023S1</a></b> (🥈3 ·  ⭐ 2 · 💀) - Resources related to the 2023 offering of COMP3420 AI for Text and Vision at the School of Computing of Macquarie.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/jloc8749/ROCO">COMP9120_assignment</a></b> (🥈3 · 💀) - comp9120 database assignment. <code>❗Unlicensed</code>
@@ -144,7 +144,7 @@ _Material that helps you to dive deep into specific courses._
 - <b><a href="https://github.com/jsnarvasa/COMP5310">COMP5310-Principles_of_Data_Science</a></b> (🥉2 ·  ⭐ 3 · 💀) - Computer Science 5310 - Principles of Data Science. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Phoebezuo/COMP2017-Study-Notes">COMP2017-Study-Notes</a></b> (🥉1 ·  ⭐ 18 · 💀) - Study Notes for COMP2017 at USYD. <code>❗Unlicensed</code> <code>#️⃣C/C++</code>
 - <b><a href="https://github.com/Kenoki41/INFO5990">INFO5990-Professional_Practice_in_IT</a></b> (🥉1 ·  ⭐ 6 · 💀) - INFO5990 Professional Practice in IT. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/Sanna-Nazir/COMP5318-MachineLearning">COMP5318-Machine_Learning_and_Data_Mining</a></b> (🥉1 ·  ⭐ 4 · 💀) - University Coursework for COMP5318: Machine Learning and Data Mining (Semester 2, 2019). <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Sanna-Nazir/COMP5318-MachineLearning">COMP5318-Machine_Learning_and_Data_Mining</a></b> (🥉1 ·  ⭐ 3 · 💀) - University Coursework for COMP5318: Machine Learning and Data Mining (Semester 2, 2019). <code>❗Unlicensed</code>
 - <b><a href="https://github.com/frisokaiyu/info5992-IT-innovation">INFO5992-IT_innovation</a></b> (🥉1 ·  ⭐ 1 · 💀) - usyd-info5992-IT-innovation...... <code>❗Unlicensed</code>
 - <b><a href="https://github.com/mengnan-course/COMP9601-Theory-of-Computation-and-Algorithms-Design-2015">COMP9601-Theory_of_Computation_and_Algorithms_Design-2015</a></b> ( ⭐ 1 · 💀) - COMP9601. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Kenoki41/INFO6007">INFO6007-Project_Management_in_IT</a></b> ( ⭐ 1 · 💀) - INFO6007 Project Management in IT. <code>❗Unlicensed</code>

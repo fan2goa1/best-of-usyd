@@ -119,7 +119,7 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈3 ·  ⭐ 1) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 12.03.2025):
+- [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 19.03.2025):
 
 	```
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
@@ -169,7 +169,7 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc._
 
-<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇6 ·  ⭐ 9 · 📈) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
+<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇6 ·  ⭐ 9) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
 
 - [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 4 · 🔀 2 · ⏱️ 13.01.2025):
 

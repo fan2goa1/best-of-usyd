@@ -103,7 +103,7 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/ACFR-RPG/mtrx5700-resources
 	```
 </details>
-<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈3 ·  ⭐ 1) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈4 ·  ⭐ 1 · 📈) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 29.05.2025):
 
@@ -111,7 +111,7 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
 	```
 </details>
-<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥉2 · 📉) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 3 · ⏱️ 05.01.2025):
 

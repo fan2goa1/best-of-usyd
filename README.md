@@ -57,7 +57,7 @@ This curated list contains 28 awesome open-source projects with a total of 270 s
 
 _All kinds of templates, e.g. latex, beamer, or other templates._
 
-<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉4 ·  ⭐ 4 · 📈) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
+<details><summary><b><a href="https://github.com/juraph-dev/usyd-slides-typst">usyd-typst-slides</a></b> (🥉4 ·  ⭐ 4) - Polylux slide template for University of Sydney themed presentations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>typst</code> <code>polylux</code></summary>
 
 - [GitHub](https://github.com/juraph-dev/usyd-slides-typst) (⏱️ 11.05.2025):
 
@@ -95,7 +95,7 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/ACFR-RPG/mtrx5700-resources">mtrx5700-resources</a></b> (🥈3 ·  ⭐ 12 · 📉) - Quick-start guides, helper code, tips and tricks for use in MTRX5700 @ The University of Sydney. Copyright. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ACFR-RPG/mtrx5700-resources">mtrx5700-resources</a></b> (🥈3 ·  ⭐ 12) - Quick-start guides, helper code, tips and tricks for use in MTRX5700 @ The University of Sydney. Copyright. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/ACFR-RPG/mtrx5700-resources) (👨‍💻 5 · 🔀 1 · ⏱️ 05.03.2025):
 
@@ -103,7 +103,7 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/ACFR-RPG/mtrx5700-resources
 	```
 </details>
-<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈4 ·  ⭐ 1 · 📈) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥈3 ·  ⭐ 1) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 29.05.2025):
 
@@ -111,7 +111,7 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/fraba/SSPS4102-SSPS6006
 	```
 </details>
-<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥉2 · 📉) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/antrikshdhand/usyd-work">usyd-work</a></b> (🥈3) - A repo holding assignments from my USYD coursework. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/antrikshdhand/usyd-work) (👨‍💻 3 · ⏱️ 05.01.2025):
 

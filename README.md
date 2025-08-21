@@ -111,7 +111,7 @@ _Material that helps you to dive deep into specific courses._
 	git clone https://github.com/antrikshdhand/usyd-work
 	```
 </details>
-<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥉2 ·  ⭐ 1 · 📉) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/fraba/SSPS4102-SSPS6006">SSPS4102-SSPS6006</a></b> (🥉2 ·  ⭐ 1) - Resources for the co-badged unit SSPS4102/SSPS6006 taught at the University of Sydney. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/fraba/SSPS4102-SSPS6006) (⏱️ 29.05.2025):
 
@@ -121,7 +121,7 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary>Show 12 hidden projects...</summary>
 
-- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 46 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 47 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/considineyang/COMP5328_assignment">COMP5328_assignment</a></b> (🥇4 · 💀) - COMP5328 advanced machine learning in university of sydney assignments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/kunzhang1110/COMP5347-Web-Application-Development">COMP5347-Web-Application-Development</a></b> (🥈3 ·  ⭐ 5 · 💀) - Solutions for COMP5347 Web Application Development from the University of Sydney. <code>❗Unlicensed</code> <code>🕸️Web</code>
 - <b><a href="https://github.com/kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences">DATA5207-Data-Analysis-in-the-Social-Sciences</a></b> (🥈3 ·  ⭐ 5 · 💀) - Solutions for DATA5207 Data Analysis in the Social Sciences from the University of Sydney. <code>❗Unlicensed</code>
@@ -189,6 +189,16 @@ Contributions are encouraged and always welcome! If you like to add or update pr
 If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/fan2goa1/best-of-usyd/blob/main/CONTRIBUTING.md). By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/fan2goa1/best-of-usyd/blob/main/.github/CODE_OF_CONDUCT.md).
+
+## Star Trends
+
+<a href="https://star-history.com/#fan2goa1/best-of-usyd&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=fan2goa1/best-of-usyd&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=fan2goa1/best-of-usyd&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=fan2goa1/best-of-usyd&type=Date" />
+  </picture>
+</a>
 
 ## License
 

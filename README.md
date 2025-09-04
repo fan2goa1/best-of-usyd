@@ -154,7 +154,7 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 _Gadgets that are related to USYD theme, e.g. USYD logo, USYD color palette, etc._
 
-<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇6 ·  ⭐ 12 · 💤) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
+<details><summary><b><a href="https://github.com/Sydney-Informatics-Hub/usydColours">usydColours</a></b> (🥇5 ·  ⭐ 13 · 💤) - University of Sydney colour palettes for ggplot2. <code>❗Unlicensed</code> <code>📊R</code></summary>
 
 - [GitHub](https://github.com/Sydney-Informatics-Hub/usydColours) (👨‍💻 4 · 🔀 2 · ⏱️ 13.01.2025):
 

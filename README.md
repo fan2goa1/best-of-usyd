@@ -95,7 +95,7 @@ _Projects that are part of a course, tutorial or competition._
 
 _Material that helps you to dive deep into specific courses._
 
-<details><summary><b><a href="https://github.com/ACFR-RPG/mtrx5700-resources">mtrx5700-resources</a></b> (🥇3 ·  ⭐ 12) - Quick-start guides, helper code, tips and tricks for use in MTRX5700 @ The University of Sydney. Copyright. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ACFR-RPG/mtrx5700-resources">mtrx5700-resources</a></b> (🥇3 ·  ⭐ 12 · 💤) - Quick-start guides, helper code, tips and tricks for use in MTRX5700 @ The University of Sydney. Copyright. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/ACFR-RPG/mtrx5700-resources) (👨‍💻 5 · 🔀 1 · ⏱️ 05.03.2025):
 

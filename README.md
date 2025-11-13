@@ -20,7 +20,7 @@
     <a href="https://github.com/fan2goa1/best-of-usyd/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/fan2goa1/best-of-usyd?color=green&label=updated"></a>
 </p>
 
-This curated list contains 27 awesome open-source projects with a total of 280 stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fan2goa1/best-of-usyd/issues/new/choose), submit a [pull request](https://github.com/fan2goa1/best-of-usyd/pulls), or directly edit the [projects.yaml](https://github.com/fan2goa1/best-of-usyd/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 27 awesome open-source projects with a total of 290 stars grouped into 6 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/fan2goa1/best-of-usyd/issues/new/choose), submit a [pull request](https://github.com/fan2goa1/best-of-usyd/pulls), or directly edit the [projects.yaml](https://github.com/fan2goa1/best-of-usyd/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -67,7 +67,7 @@ _All kinds of templates, e.g. latex, beamer, or other templates._
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-- <b><a href="https://github.com/malramsay64/usyd-beamer-theme">USYD-beamer-theme</a></b> (🥇12 ·  ⭐ 41 · 💀) - A Beamer theme that adheres to the University of Sydney Branding. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>
+- <b><a href="https://github.com/malramsay64/usyd-beamer-theme">USYD-beamer-theme</a></b> (🥇12 ·  ⭐ 45 · 💀) - A Beamer theme that adheres to the University of Sydney Branding. <code><a href="http://bit.ly/34MBwT8">MIT</a></code> <code>📜LaTeX</code>
 - <b><a href="https://github.com/emitanaka/USYDTemplates">USYDTemplates</a></b> (🥉2 ·  ⭐ 10 · 💀) - R Markdown templates for the University of Sydney. <code>❗Unlicensed</code> <code>📊R</code>
 </details>
 <br>
@@ -121,9 +121,9 @@ _Material that helps you to dive deep into specific courses._
 </details>
 <details><summary>Show 12 hidden projects...</summary>
 
-- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 47 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/ajtulloch/SydneyUniversityMathematicsNotes">SydneyUniversityMathematicsNotes</a></b> (🥇6 ·  ⭐ 50 · 💀) - Contains lecture notes for several Sydney University advanced mathematics courses. Contributions welcomed!. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences">DATA5207-Data-Analysis-in-the-Social-Sciences</a></b> (🥇3 ·  ⭐ 6 · 💀) - Solutions for DATA5207 Data Analysis in the Social Sciences from the University of Sydney. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/kunzhang1110/COMP5347-Web-Application-Development">COMP5347-Web-Application-Development</a></b> (🥇3 ·  ⭐ 5 · 💀) - Solutions for COMP5347 Web Application Development from the University of Sydney. <code>❗Unlicensed</code> <code>🕸️Web</code>
-- <b><a href="https://github.com/kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences">DATA5207-Data-Analysis-in-the-Social-Sciences</a></b> (🥇3 ·  ⭐ 5 · 💀) - Solutions for DATA5207 Data Analysis in the Social Sciences from the University of Sydney. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/considineyang/COMP5328_assignment">COMP5328_assignment</a></b> (🥇3 ·  ⭐ 1 · 💀) - COMP5328 advanced machine learning in university of sydney assignments. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/jsnarvasa/COMP5310">COMP5310-Principles_of_Data_Science</a></b> (🥉2 ·  ⭐ 3 · 💀) - Computer Science 5310 - Principles of Data Science. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/jloc8749/ROCO">COMP9120_assignment</a></b> (🥉2 ·  ⭐ 1 · 💀) - comp9120 database assignment. <code>❗Unlicensed</code>
@@ -144,7 +144,7 @@ _Tools that help you to study and research more efficiently. e.g. xx learning pl
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/BrainDynamicsUSYD/SpikeNet">SpikeNet</a></b> (🥇8 ·  ⭐ 16 · 💀) - A computational platform for studying spiking neural circuits developed by Dr. Pulin Gongs group at University of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>🧮Matlab</code> <code>#️⃣C/C++</code> <code>🌐HTML</code>
+- <b><a href="https://github.com/BrainDynamicsUSYD/SpikeNet">SpikeNet</a></b> (🥇8 ·  ⭐ 17 · 💀) - A computational platform for studying spiking neural circuits developed by Dr. Pulin Gongs group at University of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> <code>🧮Matlab</code> <code>#️⃣C/C++</code> <code>🌐HTML</code>
 </details>
 <br>
 

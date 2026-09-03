@@ -1,0 +1,31 @@
+,name,github_id,category,license,homepage,description,projectrank,show,projectrank_placing,labels,contributor_count,trending
+0,usyd_wams_calculator,LiZeLim/usyd_wams_calculator,misc,MIT,{},,2,False,1.0,,,
+1,COMP5328_assignment,considineyang/COMP5328_assignment,learn_material,Apache-2.0,{},,2,False,1.0,,,
+2,usyd-typst-slides,juraph-dev/usyd-slides-typst,template,MIT,https://github.com/juraph-dev/usyd-slides-typst,,2,True,1.0,"['typst', 'polylux']",,
+3,public_material_2023S1,COMP3420-2023S1/public_material_2023S1,learn_material,GPL-3.0,{},,1,False,2.0,,,
+4,USYD-beamer-theme,malramsay64/usyd-beamer-theme,template,,https://github.com/malramsay64/usyd-beamer-theme,,0,True,,['latex'],5.0,-12.0
+5,COMP5318,co234/COMP5318,course_project,,https://github.com/co234/COMP5318,,0,True,,"['jupyter', 'html']",,
+6,multi_robot_perception,jessemorris/multi_robot_perception,course_project,,https://github.com/jessemorris/multi_robot_perception,,0,True,,,,
+7,mtrx5700-resources,ACFR-RPG/mtrx5700-resources,learn_material,,{},,0,False,,,5.0,
+8,modal-symbolic-learning-course,https://github.com/aclai-lab/modal-symbolic-learning-course,learn_material,,{},,0,False,,"['html', 'jupyter']",,
+9,SpikeNet,BrainDynamicsUSYD/SpikeNet,study_research_tools,,{},,0,False,,"['matlab', 'cpp', 'html']",10.0,-8.0
+10,usydColours,Sydney-Informatics-Hub/usydColours,usyd_theme_gadgets,,{},,0,False,,['r'],4.0,-5.0
+11,STAT5003,Qiuzusyd/STAT5003,learn_material,,{},,0,False,,['html'],,
+12,COMP5347-Web-Application-Development,kunzhang1110/COMP5347-Web-Application-Development,learn_material,,{},,0,False,,['web'],,
+13,usyd-work,antrikshdhand/usyd-work,learn_material,,{},,0,False,,,3.0,
+14,Anomaly-Detection-For-IoT-Devices,Tim-101/Anomaly-Detection-For-IoT-Devices,course_project,,{},,0,False,,,,
+15,DATA5207-Data-Analysis-in-the-Social-Sciences,kunzhang1110/DATA5207-Data-Analysis-in-the-Social-Sciences,learn_material,,{},,0,False,,,,
+16,SSPS4102-SSPS6006,fraba/SSPS4102-SSPS6006,learn_material,,{},,0,False,,,,
+17,i-Control,minhlongds0312/i-Control,course_project,,{},,0,False,,,,
+18,vue-flask-private-chat,Lawson-Han/vue-flask-private-chat,course_project,,{},,0,False,,,,
+19,SydneyUniversityMathematicsNotes,ajtulloch/SydneyUniversityMathematicsNotes,learn_material,,{},,0,False,,,5.0,-6.0
+20,COMP9120_assignment,jloc8749/ROCO,learn_material,,{},,0,False,,,4.0,
+21,COMP5310-Principles_of_Data_Science,jsnarvasa/COMP5310,learn_material,,{},,0,False,,,,
+22,INFO6007-Project_Management_in_IT,Kenoki41/INFO6007,learn_material,,{},,0,False,,,,
+23,INFO5990-Professional_Practice_in_IT,Kenoki41/INFO5990,learn_material,,{},,0,False,,,,
+24,INFO5992-IT_innovation,frisokaiyu/info5992-IT-innovation,learn_material,,{},,0,False,,,,
+25,COMP2017-Study-Notes,Phoebezuo/COMP2017-Study-Notes,learn_material,,https://github.com/Phoebezuo/COMP2017-Study-Notes,,-1,True,3.0,['cpp'],2.0,
+26,DeepRacer,MatthewSuntup/DeepRacer,course_project,,https://github.com/MatthewSuntup/DeepRacer,,-1,True,1.0,['python'],2.0,-5.0
+27,USYDTemplates,emitanaka/USYDTemplates,template,,https://github.com/emitanaka/USYDTemplates,,-1,True,3.0,['r'],2.0,
+28,COMP5318-Machine_Learning_and_Data_Mining,Sanna-Nazir/COMP5318-MachineLearning,learn_material,,{},,-1,False,3.0,,2.0,
+29,COMP9601-Theory_of_Computation_and_Algorithms_Design-2015,mengnan-course/COMP9601-Theory-of-Computation-and-Algorithms-Design-2015,learn_material,,{},,-1,False,3.0,,2.0,
